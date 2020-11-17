@@ -1,0 +1,10 @@
+{
+    "name": "extra",
+    "version": "0.0.1",
+    "author": "Fredrik Wieczerkowski <stu216794@mail.uni-kiel.de>",
+    "synopsis": "General utility functions",
+    "category": [ "Programming" ],
+    "license": "BSD-3-Clause",
+    "licenseFile": "LICENSE",
+    "dependencies": {}
+}
