@@ -1,6 +1,6 @@
 {
     "name": "extra",
-    "version": "0.0.1",
+    "version": "3.0.0",
     "author": "Fredrik Wieczerkowski <stu216794@mail.uni-kiel.de>",
     "synopsis": "General utility functions",
     "category": [ "Programming" ],
