@@ -13,7 +13,7 @@
         "Data.Tuple.Extra", "Control.Monad.Extra"
     ],
     "source": {
-      "git": "https://git.ps.informatik.uni-kiel.de/curry-packages/extra.git",
+      "git": "https://github.com/curry-packages/extra.git",
       "tag": "$version"
     }
 }
